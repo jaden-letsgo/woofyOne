@@ -332,5 +332,6 @@ links = ['https://www.akc.org/dog-breeds/affenpinscher/',
          'https://www.akc.org/dog-breeds/yakutian-laika/',
          'https://www.akc.org/dog-breeds/yorkshire-terrier/']
 
-main()
+if __name__ == "__main__":
+    main()
 
